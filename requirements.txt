@@ -3,3 +3,5 @@ numpy==1.24.3
 langchain==0.0.202
 streamlit==1.23.1
 openpyxl==3.1.2
+pandas==2.0.3
+pydeck==0.8.1b0
